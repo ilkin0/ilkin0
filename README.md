@@ -2,14 +2,13 @@
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
 </div> -->
 
-<h1> Hi 👋, I'm Ilkin < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1 align="center"> Hi 👋, I'm Ilkin < Developer/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ilkin0.ilkin0)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ilkin0.ilkin0) 
 </p>
-<div size='20px'> Hi! My name is Ilkin. I'm a passionate and self-taught software developer. <br> Thank You for taking the time to view my GitHub Profile :smile: <br>
-  <img src = "https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width = 250px>
+<div size='20px' align="center"> Hi! My name is Ilkin. I'm a passionate and self-taught software developer.Thank You for taking the time to view my GitHub Profile :smile: <br><br>
+  <img src = "https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width = 500px>
 </div>
 
 <h2> About Me </h2>
@@ -40,10 +39,10 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/rahulbanerjee2699'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'ilkinmehdiyev.com'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.linkedin.com/in/ilkin-mehdiyev/' target="_blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.ilkinmehdiyev.com' target="_blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/ilkin0'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href="https://medium.com/@mehdiyevilkin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mehdiyevilkin" height="30" width="40" /></a>
+<a href="https://medium.com/@mehdiyevilkin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mehdiyevilkin" height="30" width="40" /></a>
 </p>
 
 
