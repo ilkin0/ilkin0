@@ -49,7 +49,7 @@
 <h2> Stuffs I work on <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My Github Data** 
 
@@ -67,12 +67,13 @@
 
 ```text
 💬 Programming Languages: 
-Java                     4 hrs 5 mins        █████████████████████████   99.82% 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
+Java                     3 hrs 50 mins       ████████████████████████░   99.27% 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54% 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
 
 🐱‍💻 Projects: 
-Workspace                4 hrs 4 mins        ████████████████████████░   99.23% 
-eis                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77%
+Workspace                3 hrs 51 mins       █████████████████████████   99.52% 
+eis                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
 
 ```
 
@@ -88,7 +89,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2021
+ Last Updated on 21/09/2021
 <!--END_SECTION:waka-->
 
 <br>
