@@ -49,17 +49,17 @@
 <h2> Stuffs I work on <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
-> 🏆 51 Contributions in the Year 2021
+> 🏆 52 Contributions in the Year 2021
  > 
-> 📦 7.2 kB Used in Github's Storage 
+> 📦 7.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 17 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -67,13 +67,14 @@
 
 ```text
 💬 Programming Languages: 
-Java                     3 hrs 50 mins       ████████████████████████░   99.27% 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54% 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
+Java                     3 hrs 23 mins       ████████████████████████░   99.1% 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🐱‍💻 Projects: 
-Workspace                3 hrs 51 mins       █████████████████████████   99.52% 
-eis                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
+Workspace                3 hrs 23 mins       ████████████████████████░   99.12% 
+eis                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59% 
+restaurant-web-app-demo  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
 
 ```
 
@@ -89,7 +90,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
 
 <br>
