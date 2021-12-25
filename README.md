@@ -55,24 +55,22 @@
 
 > 🏆 81 Contributions in the Year 2021
  > 
-> 📦 18.2 kB Used in GitHub's Storage 
+> 📦 18.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 18 Public Repositories 
  > 
-> 🔑 6 Private Repositories  
+> 🔑 7 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JavaScript               0 secs              ██████████████░░░░░░░░░░░   56.49% 
-JSON                     0 secs              ███████████░░░░░░░░░░░░░░   43.51%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-VSCodeProjects           0 secs              ██████████████░░░░░░░░░░░   56.49% 
-Unknown Project          0 secs              ███████████░░░░░░░░░░░░░░   43.51%
+No Activity Tracked This Week
 
 ```
 
@@ -89,7 +87,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/12/2021
+ Last Updated on 25/12/2021
 <!--END_SECTION:waka-->
 
 <br>
