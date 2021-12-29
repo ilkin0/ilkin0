@@ -67,10 +67,11 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     4 mins              ███████████████░░░░░░░░░░   59.63% 
+CSS                      2 mins              ██████████░░░░░░░░░░░░░░░   40.37%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+VSCodeProjects           6 mins              █████████████████████████   100.0%
 
 ```
 
@@ -87,7 +88,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2021
+ Last Updated on 29/12/2021
 <!--END_SECTION:waka-->
 
 <br>
