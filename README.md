@@ -61,7 +61,7 @@
  > 
 > 📜 18 Public Repositories 
  > 
-> 🔑 7 Private Repositories  
+> 🔑 8 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -87,7 +87,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2022
+ Last Updated on 07/01/2022
 <!--END_SECTION:waka-->
 
 <br>
