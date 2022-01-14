@@ -104,6 +104,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [What is CSRF?](https://medium.com/@mehdiyevilkin/what-is-csrf-79778fc747a2?source=rss-9d74f3472314------2)
 - [S.O.L.I.D prinsiplər Java ilə](https://medium.com/@mehdiyevilkin/solid-prinspler-2c696ac4f285?source=rss-9d74f3472314------2)
 <!-- BLOG-POST-LIST:END -->
 
