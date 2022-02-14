@@ -53,7 +53,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 2 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 18.4 kB Used in GitHub's Storage 
  > 
@@ -67,10 +67,13 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     1 hr 44 mins        ███████████████████████░░   93.88% 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.07% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          1 hr 18 mins        █████████████████░░░░░░░░   70.57% 
+nginx-k8s-cluster        32 mins             ███████░░░░░░░░░░░░░░░░░░   29.43%
 
 ```
 
@@ -87,7 +90,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2022 18:44:13 UTC
+ Last Updated on 14/02/2022 18:45:12 UTC
 <!--END_SECTION:waka-->
 
 <br>
