@@ -49,7 +49,7 @@
 <h2> Stuffs I work on <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-710%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -65,6 +65,17 @@
  > 
 > 🔑 10 Private Repositories  
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -78,7 +89,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 18:49:01 UTC
+ Last Updated on 05/09/2022 18:51:50 UTC
 <!--END_SECTION:waka-->
 
 <br>
