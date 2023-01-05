@@ -79,17 +79,17 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     17 repos            █████████████░░░░░░░░░░░░   54.84% 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
-Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68%
+Java                     18 repos            ██████████████░░░░░░░░░░░   56.25% 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38%
 
 ```
 
 
 
- Last Updated on 04/01/2023 18:43:34 UTC
+ Last Updated on 05/01/2023 18:43:23 UTC
 <!--END_SECTION:waka-->
 
 <br>
