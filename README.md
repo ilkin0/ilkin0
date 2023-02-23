@@ -55,15 +55,15 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2023
- > 
 > 📦 23.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 30 Public Repositories 
  > 
-> 🔑 12 Private Repositories  
+> 🔑 12 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -73,23 +73,22 @@ No Activity Tracked This Week
 
 🐱‍💻 Projects: 
 No Activity Tracked This Week
-
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     18 repos            █████████████░░░░░░░░░░░░   54.55 % 
+Java                     18 repos            ██████████████░░░░░░░░░░░   54.55 % 
 Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
 
- Last Updated on 21/02/2023 18:42:31 UTC
+
+ Last Updated on 23/02/2023 18:43:38 UTC
 <!--END_SECTION:waka-->
 
 <br>
