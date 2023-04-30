@@ -51,17 +51,17 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-710%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 23.6 kB Used in GitHub's Storage 
+> 📦 23.7 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2023
+> 🏆 1 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 31 Public Repositories 
  > 
 > 🔑 12 Private Repositories 
  > 
@@ -78,17 +78,17 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     18 repos            ██████████████░░░░░░░░░░░   54.55 % 
-Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Java                     19 repos            ██████████████░░░░░░░░░░░   55.88 % 
+Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
 
 
- Last Updated on 29/04/2023 18:38:06 UTC
+ Last Updated on 30/04/2023 18:38:13 UTC
 <!--END_SECTION:waka-->
 
 <br>
