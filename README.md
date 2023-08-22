@@ -51,17 +51,17 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-710%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 24.1 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2023
+> 🏆 18 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 36 Public Repositories 
+> 📜 37 Public Repositories 
  > 
 > 🔑 13 Private Repositories 
  > 
@@ -88,7 +88,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2023 18:37:55 UTC
+ Last Updated on 22/08/2023 18:37:59 UTC
 <!--END_SECTION:waka-->
 
 <br>
