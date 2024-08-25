@@ -2,113 +2,38 @@
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
 </div> -->
 
-<h1 align="center"> Hi 👋, I'm Ilkin < Developer/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+<h1 align="center"> Hi there, I'm Ilkin! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ilkin0.ilkin0) 
-</p>
-<div size='20px' align="center"> Hi! My name is Ilkin. I'm a passionate and self-taught software developer.Thank You for taking the time to view my GitHub Profile :smile: <br><br>
-  <img src = "https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width = 500px>
+<p align="center">Software Engineer | Java Enthusiast | Blogger</p>
+
+<div size='20px' > Hey there! 👋 I'm a software engineer who's always excited about diving into new coding adventures. 
+Thanks for dropping by my GitHub – I hope you find something interesting!
 </div>
 
-<h2> About Me </h2>
+## About Me
 
-<img width="55%" align="right" alt="Github" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+- 🔭 I’m currently working on My Blog, GitHub Projects
+- 👯 I’m looking to collaborate on Projects, Startups, Tech Articles
+- 💬 Talk to me about Java, Spring, RESTful, Sql
 
+## Connect with Me
 
-- 🔭 I’m currently working on My Blog, Github Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilkin-mehdiyev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=flat-square&logo=google-chrome&logoColor=white)](https://www.ilkinmehdiyev.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@mehdiyevilkin)
 
-- 🌱 I’m currently learning As much as I can, specially Cloud Computing and Vuejs 
+[//]: # (![Ilkin Mehdiyev's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=ilkin0&theme=dark&show_icons=true&#41;)
 
-- 👯 I’m looking to collaborate on Projects, Startups, Tech Articles 
-
-- 💬 Talk to me about Java, Spring, RESTful, Sql 
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/ilkin0?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/ilkin0?tab=repositories&q=&type=&language=spring&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
-<a href= https://github.com/ilkin0?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/ilkin0?tab=repositories&q=&type=&language=vuejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg'> </a>
-<a href= https://github.com/ilkin0?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
-<a href= https://github.com/ilkin0?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-<a href= https://github.com/ilkin0?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
-<a href= https://github.com/ilkin0?tab=repositories&q=&type=&language=heroku&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'> </a>
-<a href= https://github.com/ilkin0?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/ilkin0?tab=repositories&q=&type=&language=oracle&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/oracle.svg'> </a>
-<a href= https://github.com/ilkin0?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/ilkin-mehdiyev/' target="_blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.ilkinmehdiyev.com' target="_blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/ilkin0'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href="https://medium.com/@mehdiyevilkin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mehdiyevilkin" height="30" width="40" /></a>
-</p>
-
-
-<h2> Stuffs I work on <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-710%20hrs%2035%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 28.4 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 46 Public Repositories 
- > 
-> 🔑 16 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     26 repos            ██████████████░░░░░░░░░░░   55.32 % 
-Vue                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-```
-
-
-
-
- Last Updated on 23/08/2024 18:41:20 UTC
-<!--END_SECTION:waka-->
-
-<br>
-
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-
-![Metrics](https://metrics.lecoq.io/ilkin0?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
-
-![Metrics](https://github-readme-stats.vercel.app/api/top-langs?username=ilkin0&show_icons=true&theme=dracula&locale=en&layout=compact)
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilkin0&show_icons=true&locale=en&layout=compact" alt="ilkin0" /></p> -->
+[//]: # (<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilkin0&show_icons=true&locale=en&layout=compact" alt="ilkin0" /></p> -->)
 
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+
 - [What is API Gateway exactly? Spring Cloud Gateway?](https://medium.com/@mehdiyevilkin/what-is-api-gateway-exactly-spring-cloud-gateway-3c43b269e3ab?source=rss-9d74f3472314------2)
 - [Understanding Async in Java](https://medium.com/@mehdiyevilkin/understanding-async-in-java-713e22819294?source=rss-9d74f3472314------2)
 - [What is CSRF?](https://medium.com/@mehdiyevilkin/what-is-csrf-79778fc747a2?source=rss-9d74f3472314------2)
 - [S.O.L.I.D prinsiplər Java ilə](https://medium.com/@mehdiyevilkin/solid-prinspler-2c696ac4f285?source=rss-9d74f3472314------2)
+
 <!-- BLOG-POST-LIST:END -->
-
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
-
+![Metrics](https://github-readme-stats.vercel.app/api/top-langs?username=ilkin0&show_icons=true&theme=dracula&locale=en&layout=compact)
