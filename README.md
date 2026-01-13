@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hi there, I'm Ilkin! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
-<p align="center">Software Engineer | Java Enthusiast | Blogger</p>
+<p align="center">Software Engineer</p>
 
 <div size='20px' > Hey there! 👋 I'm a software engineer who's always excited about diving into new coding adventures. 
 Thanks for dropping by my GitHub – I hope you find something interesting!
@@ -20,6 +20,7 @@ Thanks for dropping by my GitHub – I hope you find something interesting!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilkin-mehdiyev/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=flat-square&logo=google-chrome&logoColor=white)](https://www.ilkinmehdiyev.com)
+[![Blog](https://img.shields.io/badge/Blog-12100E?style=flat-square&logo=blogger&logoColor=white)]([https://medium.com/@mehdiyevilkin](https://blog.ilkinmehdiyev.com/))
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@mehdiyevilkin)
 
 [//]: # (![Ilkin Mehdiyev's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=ilkin0&theme=dark&show_icons=true&#41;)
@@ -29,8 +30,8 @@ Thanks for dropping by my GitHub – I hope you find something interesting!
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [What is API Gateway exactly? Spring Cloud Gateway?](https://medium.com/@mehdiyevilkin/what-is-api-gateway-exactly-spring-cloud-gateway-3c43b269e3ab?source=rss-9d74f3472314------2)
-- [Understanding Async in Java](https://medium.com/@mehdiyevilkin/understanding-async-in-java-713e22819294?source=rss-9d74f3472314------2)
+- [What is API Gateway exactly? Spring Cloud Gateway?](https://blog.ilkinmehdiyev.com/posts/api-gateway-and-spring-cloud-gateway/)
+- [Understanding Async in Java](https://blog.ilkinmehdiyev.com/posts/understanding-async-java/)
 - [What is CSRF?](https://medium.com/@mehdiyevilkin/what-is-csrf-79778fc747a2?source=rss-9d74f3472314------2)
 - [S.O.L.I.D prinsiplər Java ilə](https://medium.com/@mehdiyevilkin/solid-prinspler-2c696ac4f285?source=rss-9d74f3472314------2)
 <!-- BLOG-POST-LIST:END -->
